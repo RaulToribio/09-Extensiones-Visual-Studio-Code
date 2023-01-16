@@ -1,5 +1,3 @@
-# 09-Extensiones-Visual-Studio-Code
-
 # Introducción
 
 Las extensiones son software adicionales desarrollados por la comunidad o por terceros que amplían las funcionalidades de Visual Studio Code. Estas extensiones pueden añadir soporte para nuevos lenguajes de programación, mejorar la experiencia de depuración, agregar temas e iconos personalizados, entre otras cosas.
