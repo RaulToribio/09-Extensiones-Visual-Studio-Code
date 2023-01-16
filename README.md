@@ -38,10 +38,6 @@ Instalar la extensión “C/C++”.
 
 Instalar la extensión “GitHub Pull Request and Issues”.
 
-# Evidencias
-
-![https://raw.githubusercontent.com/RaulToribio/09-Extensiones-Visual-Studio-Code/main/Im%C3%A1genes/Extensiones%20Visual%20Studio%20Code%20(2).png](https://raw.githubusercontent.com/RaulToribio/09-Extensiones-Visual-Studio-Code/main/Im%C3%A1genes/Extensiones%20Visual%20Studio%20Code%20(2).png)
-
 # Créditos
 
 > [José Raúl Toribio Gabriel](https://github.com/RaulToribio)
